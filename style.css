@@ -1,0 +1,13 @@
+body {
+margin: 0;
+}
+.header1{
+height: 50px;
+background-color: black;
+
+}
+.navigation{
+color: white;
+padding-top: 1em;
+padding-left: 55em;
+}
