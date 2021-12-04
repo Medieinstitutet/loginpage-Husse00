@@ -4,10 +4,21 @@ margin: 0;
 .header1{
 height: 50px;
 background-color: black;
-
 }
 .navigation{
-color: white;
+color: rgb(255, 255, 255);
 padding-top: 1em;
 padding-left: 55em;
+}
+.footer{
+height: 70px;
+width: 100%;
+background-color: black;
+position: absolute;
+bottom: 0;
+}
+.footerText {
+color: white;
+padding-left: 57em;
+padding-top: 0.7em;
 }
