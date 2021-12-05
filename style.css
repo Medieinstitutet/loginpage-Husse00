@@ -4,6 +4,7 @@ margin: 0;
 .header1{
 height: 50px;
 background-color: black;
+
 }
 .navigation{
 color: rgb(255, 255, 255);
@@ -16,6 +17,7 @@ width: 100%;
 background-color: black;
 position: absolute;
 bottom: 0;
+
 }
 .footerText {
 color: white;
